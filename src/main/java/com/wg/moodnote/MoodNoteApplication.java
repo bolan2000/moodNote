@@ -18,7 +18,7 @@ public class MoodNoteApplication {
 
     @RequestMapping("/")
     public String test() {
-        return "hello mood note";
+        return "hello mood note test";
     }
 
 }
